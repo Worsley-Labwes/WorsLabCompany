@@ -145,7 +145,3 @@ npm run build
 The `dist` folder will contain the optimized production build.
 
 ---
-
-**Repository:** alx-fe-reactjs  
-**Directory:** my-company  
-**Files:** Home.jsx, About.jsx, Services.jsx, Contact.jsx
